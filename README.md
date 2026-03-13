@@ -1,4 +1,4 @@
-[![Header](https://github.com/maxilgov94/maxilgov94/blob/main/Assets/header.png)](https://t.me/swiftkhua)
+[![Header](https://github.com/maxilgov94/maxilgov94/blob/main/Assets/header1.png)](https://t.me/swiftkhua)
 
 ## Junior QA Engineer 
 
