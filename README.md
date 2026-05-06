@@ -13,7 +13,10 @@
  ![Static Badge](https://img.shields.io/badge/-Jira-000?style=for-the-badge&logo=Jira)
  ![Static Badge](https://img.shields.io/badge/-Gsheets-000?style=for-the-badge&logo=googlesheets)
 ### Testing Documentation
-[![Link](https://github.com/maxilgov94/maxilgov94/blob/main/Assets/portfoliologo.png)](https://docs.google.com/spreadsheets/d/1qPLdD1c7YiuT_-hE6i0Oz7kS87kOFbWx/edit?usp=sharing&ouid=117159214876556264049&rtpof=true&sd=true)
+- [Test Cases](https://docs.google.com/spreadsheets/d/1qPLdD1c7YiuT_-hE6i0Oz7kS87kOFbWx/edit?gid=725937491#gid=725937491)
+- [Bug Reports](https://docs.google.com/spreadsheets/d/1qPLdD1c7YiuT_-hE6i0Oz7kS87kOFbWx/edit?gid=733786863#gid=733786863)
+- [Check Lists](https://docs.google.com/spreadsheets/d/1qPLdD1c7YiuT_-hE6i0Oz7kS87kOFbWx/edit?gid=38049025#gid=38049025)
+- [API's](https://docs.google.com/spreadsheets/d/1qPLdD1c7YiuT_-hE6i0Oz7kS87kOFbWx/edit?gid=1321962296#gid=1321962296)
 ### Contact me 
 
  [![Static Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkd)](www.linkedin.com/in/максим-ильгов-8251b8229)
