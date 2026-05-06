@@ -3,6 +3,7 @@
 ## Junior QA Engineer 
 ### My CV
 [Link to my CV](https://drive.google.com/drive/u/2/folders/1-UAZBwsGITujI9dKy06MajpAD-rN2csv)
+
 ### Languge and Tools
  ![Static Badge](https://img.shields.io/badge/-DevTools-000?style=for-the-badge&logo=googlechrome)
  ![Static Badge](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=github)
