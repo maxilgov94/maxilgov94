@@ -16,7 +16,7 @@
 - [Test Cases](https://docs.google.com/spreadsheets/d/1qPLdD1c7YiuT_-hE6i0Oz7kS87kOFbWx/edit?gid=725937491#gid=725937491)
 - [Bug Reports](https://docs.google.com/spreadsheets/d/1qPLdD1c7YiuT_-hE6i0Oz7kS87kOFbWx/edit?gid=733786863#gid=733786863)
 - [Check Lists](https://docs.google.com/spreadsheets/d/1qPLdD1c7YiuT_-hE6i0Oz7kS87kOFbWx/edit?gid=38049025#gid=38049025)
-- [API's](https://docs.google.com/spreadsheets/d/1qPLdD1c7YiuT_-hE6i0Oz7kS87kOFbWx/edit?gid=1321962296#gid=1321962296)
+- [API's](https://github.com/maxilgov94/qa_api_practice.git)
 - [SQL](https://github.com/maxilgov94/qa_sql_practice.git)
 ### Contact me 
 
