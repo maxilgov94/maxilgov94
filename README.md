@@ -13,9 +13,7 @@
  ![Static Badge](https://img.shields.io/badge/-Jira-000?style=for-the-badge&logo=Jira)
  ![Static Badge](https://img.shields.io/badge/-Gsheets-000?style=for-the-badge&logo=googlesheets)
 ### Testing Documentation
-- [Test Cases](https://docs.google.com/spreadsheets/d/1qPLdD1c7YiuT_-hE6i0Oz7kS87kOFbWx/edit?gid=725937491#gid=725937491)
-- [Bug Reports](https://docs.google.com/spreadsheets/d/1qPLdD1c7YiuT_-hE6i0Oz7kS87kOFbWx/edit?gid=733786863#gid=733786863)
-- [Check Lists](https://docs.google.com/spreadsheets/d/1qPLdD1c7YiuT_-hE6i0Oz7kS87kOFbWx/edit?gid=38049025#gid=38049025)
+- [Test Cases/ Bug Reports/ Check Lists](https://github.com/maxilgov94/Test-Documentation)
 - [API's](https://github.com/maxilgov94/qa_api_practice.git)
 - [SQL](https://github.com/maxilgov94/qa_sql_practice.git)
 ### Contact me 
